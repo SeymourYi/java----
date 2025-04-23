@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="java其中考试">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/mybatis-demo.zip!/" />
+      <root url="jar://$PROJECT_DIR$/spring-demo.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
